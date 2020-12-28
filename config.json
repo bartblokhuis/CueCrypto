@@ -1,0 +1,14 @@
+{
+    "crypto" : "BTC",
+    "interval" : 5000,
+    "price_up" : {
+        "r" : 0,
+        "g" : 255,
+        "b" : 0
+    },
+    "price_down" : {
+        "r" : 0,
+        "g" : 255,
+        "b" : 0
+    }
+}

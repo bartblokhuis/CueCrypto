@@ -1,0 +1,8 @@
+{
+  "name": "CueCrypto",
+  "version": "1.0.0",
+  "dependencies": {
+    "cue-sdk": "^1.6.0",
+    "crypto-price": "^0.0.6"
+  }
+}
